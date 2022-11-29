@@ -1,5 +1,5 @@
 
-# chess-san
+# chess-alge
 
 A simple web application to practice chess standard algebraic notation. The player must make the randomly chosen move in the given position. 
 
